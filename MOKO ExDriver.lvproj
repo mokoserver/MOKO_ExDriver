@@ -120,7 +120,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BA527C6E-5A3F-496C-96B1-0D65A2BB0E85}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ExDriver.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../DriverCompiled_DLL/ExDriver.dll</Property>
@@ -212,7 +212,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DC0837AD-27DD-4131-8DFE-0F31AA290B2C}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">N4_201.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../DriverCompiled_DLL/N4_201.dll</Property>
@@ -304,7 +304,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CB10325E-96F0-4781-8065-BAADC16AA880}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XP2i.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../DriverCompiled_DLL/XP2i.dll</Property>
