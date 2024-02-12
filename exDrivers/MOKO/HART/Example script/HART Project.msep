@@ -1,0 +1,14 @@
+{
+"project_name":"HART Project",
+"project_autosave":"true",
+"project_scripts":[
+{"script":"HART script.py","necessary":"false"}
+],
+"project_libraries":[
+{"script":"MOKO.py"},
+{"script":"MGPH.py"}
+],
+"project_templates":[
+{"script":"HART Report.docx"}
+]
+}
