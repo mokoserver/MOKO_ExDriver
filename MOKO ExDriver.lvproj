@@ -139,7 +139,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3B61C0A4-F0E9-4E97-8F50-51AE3BE33923}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">AgilentDMM.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/AgilentDMM.dll</Property>
@@ -234,7 +234,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DBC73839-85ED-437A-A300-EAA1182D28FA}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">APPA207.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/APPA207.dll</Property>
@@ -329,7 +329,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{DE0D70E3-A823-4C26-BB76-B392BFFDF9D6}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">BK1697B.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/BK1697B.dll</Property>
@@ -427,7 +427,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{59E7DB41-DD33-44D3-BBF3-063D7992EE51}</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">XP2i.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/XP2i.dll</Property>
@@ -528,7 +528,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{48716DEC-9640-4559-9BAE-025BF4BD87BA}</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">13</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Elait03.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/Elait03.dll</Property>
@@ -632,7 +632,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8A877BE7-CFA2-4937-BEF2-BC9133647B82}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MK210.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/MK210.dll</Property>
@@ -739,7 +739,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A98BB279-9E44-49DC-9D08-C90C06276A6C}</Property>
-				<Property Name="Bld_version.build" Type="Int">14</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SI8.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/SI8.dll</Property>
@@ -849,7 +849,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BA21D601-1B49-44E4-B1CA-19F0B939C26F}</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">16</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FY6900.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/FY6900.dll</Property>
@@ -962,7 +962,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{92601A51-047E-4544-91D8-F290B77A99EA}</Property>
-				<Property Name="Bld_version.build" Type="Int">17</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">N4_X01.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/N4_X01.dll</Property>
@@ -1078,7 +1078,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{11AF8616-9266-4D9E-B535-FF7BE679A257}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CUIT553.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/CUIT553.dll</Property>
@@ -1200,7 +1200,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{359894BF-249E-44C2-B8FE-4EF4E7C88900}</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">20</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">exDriver.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/exDriver.dll</Property>
@@ -1325,7 +1325,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{29FF752B-0FEE-4EC8-8731-411BF19A7654}</Property>
-				<Property Name="Bld_version.build" Type="Int">22</Property>
+				<Property Name="Bld_version.build" Type="Int">23</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">HART.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/HART.dll</Property>
@@ -1456,7 +1456,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{334AFE22-D300-43D6-BF66-5EB6C0593ECB}</Property>
-				<Property Name="Bld_version.build" Type="Int">21</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ZNA43.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/ZNA43.dll</Property>
@@ -1587,7 +1587,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B28B6EF0-8AB0-43A2-9158-4EF4AB02B1ED}</Property>
-				<Property Name="Bld_version.build" Type="Int">22</Property>
+				<Property Name="Bld_version.build" Type="Int">23</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Fluke5000.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/Fluke5000.dll</Property>
@@ -1721,7 +1721,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{00D862DA-6D2F-4A4B-B777-E0A5D36C4656}</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SCPI.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/SCPI.dll</Property>
@@ -1855,7 +1855,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C353FF6C-7583-42E7-B8FD-08571C0F934C}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">B7_65.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/B7_65.dll</Property>
@@ -1974,7 +1974,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C9879049-1896-4F87-819D-77172B4C1903}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">B7_72.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/B7_72.dll</Property>
@@ -2093,7 +2093,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4C674EE3-FC56-44BC-AF72-7F8E83B4C669}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">E7_20.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/E7_20.dll</Property>
@@ -2212,7 +2212,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5EAE6FA3-8A4C-49BC-8B0E-6C2FFE6C4B1A}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">E7_28.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/E7_28.dll</Property>
@@ -2331,7 +2331,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8B79D21B-3686-4369-8C0F-528DD6AF07BF}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">E7_30.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/E7_30.dll</Property>
