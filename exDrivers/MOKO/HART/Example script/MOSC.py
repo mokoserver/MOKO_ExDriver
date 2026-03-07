@@ -84,12 +84,12 @@ def ScriptState():
 
 
 #####################################
-#                TREE & HESH
+#                TREE & hash
 #####################################
 
-def status_tree(HESH):
-    MOKO.Program('tree', 'set', 'select = ' + HESH)
-    status = MOKO.Program('tree', 'get', 'hesh ' + HESH, 'string')
+def status_tree(hash):
+    MOKO.Program('tree', 'set', 'select = ' + hash)
+    status = MOKO.Program('tree', 'get', 'hash ' + hash, 'string')
     if status != 'canceled':
         return True
     return False
@@ -155,16 +155,16 @@ def table_report(reportName, result):
 #####################################
 
 # Test function should have standard input & output:
-# input -- [list of input parameters], HESH
+# input -- [list of input parameters], hash
 # output -- [list of output parameters, where [0] element is a result of trial 'Good'/'Normal'/'Bad']
 def iteration_structure(test_function, iterations = 3): # Decorator of iteration function
-    def wrapper(input_paremeters, test_hesh):   # Wrapper of the function
+    def wrapper(input_paremeters, test_hash):   # Wrapper of the function
         test_result = 0
-        if status_tree(test_hesh):      # Checking up hesh
+        if status_tree(test_hash):      # Checking up hash
             test_iterator = 0           # Setting test iteration counter to 0
             while test_iterator < iterations:    # While cycle for trial
                 # Here should be actual trial block, but in this example a user will choose trial's result
-                test_result = test_function(input_paremeters, test_hesh)
+                test_result = test_function(input_paremeters, test_hash)
                 # This part sets up script's status after trial's result check, but you can use your local variable
                 if test_result[0] == 'Good':
                     Done()
