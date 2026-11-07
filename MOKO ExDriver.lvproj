@@ -183,7 +183,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E3A801B2-7E00-433C-9B1E-B148656E3515}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">20</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">ADT681.dll</Property>
 				<Property Name="Destination[0].path" Type="Path">../exDriverCompiled_DLL/ADT681.dll</Property>
